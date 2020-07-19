@@ -1,0 +1,15 @@
+first file
+.txt -> text file
+.py -> python file
+.sh -> shell script
+.c -> c file
+
+
+################################
+
+raja github class
+date:19 july 2020
+raja github class
+date:19 july 2020
+raja github class
+date:19 july 2020
