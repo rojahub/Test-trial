@@ -1,0 +1,10 @@
+mkdir
+cd
+ls, ls-ltr,ls a
+cp 
+mv
+scp
+cat
+touch
+chmod
+:wq
