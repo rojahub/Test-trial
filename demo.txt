@@ -1,0 +1,5 @@
+im pushing this to test branch
+messed up git commands
+work in progress
+-u option is confusing
+-u stands for setting upstream to remote branch
