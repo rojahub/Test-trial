@@ -1,0 +1,18 @@
+git commands
+python codes
+linux commands
+cd<folder names>
+or mkdir create folder
+to get master
+git init
+gir config user name
+git config email
+git clone
+vim
+git status
+git add
+git status
+git commit -m
+git pull
+git push origin master
+history
